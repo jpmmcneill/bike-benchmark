@@ -1,0 +1,4 @@
+sphinx
+polars
+duckdb
+pyarrow
